@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "pizza-app-6de33",
+                    "appId": "1:334588401907:android:13857c3e325d3f201bbf86",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "pizza-app-6de33",
+                    "configurations": {
+                        "android": "1:334588401907:android:13857c3e325d3f201bbf86",
+                        "ios": "1:334588401907:ios:51cd836f12be641c1bbf86",
+                        "macos": "1:334588401907:ios:51cd836f12be641c1bbf86",
+                        "web": "1:334588401907:web:f5fcfab304a5fa2a1bbf86",
+                        "windows": "1:334588401907:web:dd622f6eb4f4a66f1bbf86"
+                    }
+                }
+            }
+        }
+    }
+}

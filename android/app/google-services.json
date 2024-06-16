@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334588401907",
+    "project_id": "pizza-app-6de33",
+    "storage_bucket": "pizza-app-6de33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334588401907:android:13857c3e325d3f201bbf86",
+        "android_client_info": {
+          "package_name": "co.knoxcorporation.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYyRz8G-R3-3RJdNkwFZJUBnSfNcj0oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
